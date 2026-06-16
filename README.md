@@ -1,2 +1,28 @@
-# cybersecurity-survey-and-feedback-collection-system
-Professional survey and feedback collection system built for cybersecurity operations and growth.
+# Cybersecurity Survey and Feedback Collection System
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFa7sL9z9f6Q4pq5bud0930)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFa7sL9z9f6Q4pq5bud0930)
+
